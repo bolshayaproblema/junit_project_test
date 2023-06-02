@@ -1,0 +1,27 @@
+HELP.md
+/src/main/
+!**/src/test/**
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Gradle ###
+build/
+.gradle
+gradlew
+gradlew.bat
+settings.gradle
+
+### Logs ###
+*.log
+
+hooks/
+info/
+objects/
+refs/
+config
+description
+HEAD
